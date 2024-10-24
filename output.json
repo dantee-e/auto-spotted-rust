@@ -1,0 +1,563 @@
+Dados em JSON: [
+  {
+    "banido": "Banido pela moderacao",
+    "data/hora": "Carimbo de data/hora",
+    "identificacao": "Sua mensagem é Anônima? Caso não, deixe aqui seu nome e curso!",
+    "link": "Se tiver um link pra compartilhar, deixa ele aqui!",
+    "mensagem": "Deixe aqui sua mensagem!",
+    "postado": "Postado"
+  },
+  {
+    "banido": "1",
+    "data/hora": "07/10/2024 23:24:40",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Alguem sabe o @ do adm? Acho q daria um bom marido😋",
+    "postado": null
+  },
+  {
+    "banido": null,
+    "data/hora": "07/10/2024 23:49:55",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Achei esse spotted tão lindinho quanto o menino de calça cargo verde e ecobag na biblioteca na quinta (26/09). Alguém ajuda a encontrar pfvvv ",
+    "postado": "1"
+  },
+  {
+    "banido": "1",
+    "data/hora": "08/10/2024 00:06:24",
+    "identificacao": "Sou eu, mandei pra teste KKKKKKKK que cantada ruim vtmnc",
+    "link": "",
+    "mensagem": "@dante_ramacci, nem a mais potente placa de vídeo iria reproduzir os gráficos da sua beleza 😎",
+    "postado": null
+  },
+  {
+    "banido": null,
+    "data/hora": "08/10/2024 09:58:28",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Parabéns pela iniciativa! Cansado de páginas de spotted morrendo por falta de moderação ",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "08/10/2024 15:19:07",
+    "identificacao": "É a Ayla só to colocando aqui pra dar engajamento ve se posta ai kkkkkkkkkkk",
+    "link": "",
+    "mensagem": "Vamos ver se é rápido mesmo kkkkk no último bioween vi um garoto alto de óculos vestido de Harry Potter mas fiquei na dúvida se estava de casal... És solteiro estranho?",
+    "postado": "1"
+  },
+  {
+    "banido": "1",
+    "data/hora": "08/10/2024 19:32:36",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Da uma mamada (teste)",
+    "postado": null
+  },
+  {
+    "banido": "1",
+    "data/hora": "08/10/2024 19:55:21",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Só pra testar pra ver se é rápido mesmo 👀",
+    "postado": null
+  },
+  {
+    "banido": null,
+    "data/hora": "08/10/2024 23:55:31",
+    "identificacao": "Anônima ",
+    "link": "",
+    "mensagem": "@maaquati vc n é Mona mas aLisa meu pelo 😔🫠",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "10/10/2024 11:38:04",
+    "identificacao": "Christian Barry Ciência da Computação ",
+    "link": "",
+    "mensagem": "Christian do Scrum Master Technicians procura alguém para fazer swing",
+    "postado": "1"
+  },
+  {
+    "banido": "1",
+    "data/hora": "10/10/2024 11:55:46",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "gostaria de parabenizar esse spoted por cutucar aquele feio do stitch, agora é tarde p trabalhar finado spoted2",
+    "postado": null
+  },
+  {
+    "banido": null,
+    "data/hora": "11/10/2024 06:05:23",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "o spotterunesp 2 esta tentando te calar",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "13/10/2024 19:09:13",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Aquele piratinha do Bioween beija quais bocas? Mó gato",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "13/10/2024 19:39:15",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Eu boto fé nesse Spotted! O outro só volta quando aparece a concorrência, e depois aposenta de novo",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "13/10/2024 23:28:58",
+    "identificacao": "Sua colega de curso",
+    "link": "",
+    "mensagem": "Só queria que a @barbarakperim visse o crush que eu tenho nela!",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "14/10/2024 13:44:00",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Tiioooo pode cantar o cebola por aqui???",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "14/10/2024 13:48:52",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "queria saber se a @ma.marquesp tá solteira",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "14/10/2024 14:00:03",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Não encerre esse spotted nao, o outro me encheu o saco já por começar e parar.. se vc parar tbm eu meto um processo 😡",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "14/10/2024 18:59:12",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Existe algum grupo de RPG na unesp? Queria começar a jogar ",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "14/10/2024 19:26:13",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Se começarem a encher de spotted aqui tbm pra esse cebola, eu vou cometer atrocidades, juro ",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "14/10/2024 20:23:09",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "@luiz_savegnago é solteiro?? achei lindo ",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "14/10/2024 23:55:50",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "acabei de ver o menino mais lindo esperando no ponto, de mullet e tatuagem no braço, queria muito saber quem é ",
+    "postado": "1"
+  },
+  {
+    "banido": "1",
+    "data/hora": "15/10/2024 08:54:09",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Ei Nauteria VAI TOMAR NO CU ",
+    "postado": null
+  },
+  {
+    "banido": null,
+    "data/hora": "15/10/2024 13:17:51",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Ja que é dia dos professores queria fazer uma menção honrosa ao professor Osvando, um dos melhores professores que eu tive aqui na Unesp🥲",
+    "postado": "1"
+  },
+  {
+    "banido": "1",
+    "data/hora": "15/10/2024 17:18:08",
+    "identificacao": "Sim",
+    "link": "",
+    "mensagem": "Resposta ao spotted 13, enrolei mto mas finalmente fiz, ent quem quiser ter acesso a mais gente do mundo RPGistico na faculdade, entra aqui: https://chat.whatsapp.com/G1TWUaqWfl66z6dPF63a6O\n(Adm, manda o link no comentário por gentileza)\nAgradeço a atenção!",
+    "postado": null
+  },
+  {
+    "banido": null,
+    "data/hora": "15/10/2024 19:29:28",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Salve salve, a quem interessar, foi criado um grupo de rpg da unesp para a galera se encontrar, quem tiver interesse no link só me dar uma chamada na dm do insta, mateusg.zip aqui na rede. Obrigado e boa tarde pessoal",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "15/10/2024 20:00:22",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Tinha uma moça na bioween que tava fantasiada de Remy do ratatouille e junto tinha um amigo de Linguini. Queria saber se a ratinha é solteira?",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "15/10/2024 20:59:09",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "algum rolê, alguma boa, alguma festinha, alguma rep pro fim de semana do dia 25/10?",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "16/10/2024 00:29:26",
+    "identificacao": "nao nao eh anonima me chupa",
+    "link": "https://docs.google.com/forms/d/e/1FAIpQLSeLSxc3R_ZddxkrRUWGYTkxS31ITQe2cT80eGgsF4ESHv5dow/viewform",
+    "mensagem": "teste de linkkkkk",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "16/10/2024 01:15:40",
+    "identificacao": "",
+    "link": "link pra compartilhar",
+    "mensagem": "teste 2pq n ta mudando o numerooo",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "16/10/2024 01:17:00",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "outra resposata",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "16/10/2024 11:21:44",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Avisa a Agnes de psico que eu só não prometo o mundo pra ela pq ele pertence ao proletariado ",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "16/10/2024 15:02:54",
+    "identificacao": "Lisandra, Biologia ",
+    "link": "",
+    "mensagem": "Gostaria de dizer que o Eduardo Campana é o homem mais lindo da Bio. ",
+    "postado": "1"
+  },
+  {
+    "banido": "1",
+    "data/hora": "16/10/2024 16:01:29",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "testando",
+    "postado": null
+  },
+  {
+    "banido": null,
+    "data/hora": "16/10/2024 20:05:36",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "@grael.com.br fica com homens?",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "16/10/2024 21:15:04",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "O pessoal devia ter mais respeito, vi um casal fazendo vuc vuc no matinho do departamento de biologia. Tenham noção! ",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "16/10/2024 21:17:49",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Moça de camiseta gola alta marrom e calça de shopping, tava no ru de noite (16/10), solteira? ",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "17/10/2024 03:30:27",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Manas trans vamos fazer amizade? curte aqui ",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "17/10/2024 03:47:35",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Anatavaresxd de arq é simplesmente a mais gata da unesp <3",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "17/10/2024 04:23:24",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "O menino cacheado que vende doces pela unesp namora? Se não, que bocas beija? Acho ele uma gracinha",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "17/10/2024 04:51:30",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Quem me pôs no coração esse amor de vida, senão tu?",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "17/10/2024 05:26:36",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "@Juliaaa.sf imagina uma cantada foda, eubto super afim de vc e nn é de hoje",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "17/10/2024 19:07:27",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Eu (homem bi) e minha namorada (mulher cis aberta a experimentar) estamos procurando pessoas pra se divertir com a gente 🔥 Se interessou? Curte aqui que a gente te chama rs.",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "17/10/2024 20:31:49",
+    "identificacao": "Anônimo ",
+    "link": "",
+    "mensagem": "Não aguento mais vender coisas na geladeira e ser ROUBADA MEU!  Já são vários casos de roubos de nós que vendemos na geladeira. A GENTE TEM ALUGUEL PRA PAGAR AMORES, BOLETO PARA PAGAR. Colaborem!",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "17/10/2024 21:05:46",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Há umas plantas que nascem e crescem depressa;outras são tardias e pecas. O nosso amor poderá ser daquelas que brotam com tal ímpeto e tanta seiva, que, dentro em pouco, será a mais vasta, folhuda e exuberante criatura dos bosques. @Caroll.zanin",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "17/10/2024 22:16:41",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Um menino de camiseta verde acabou de passar na frente do trailer do Ro. Queria saber quem é e se tá solteiro 💋 ",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "17/10/2024 23:04:32",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "queria amar",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "18/10/2024 06:31:40",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Não tem nada a ver com a Unesp mas eu sou gamado numa das moças que trabalha no caixa da Fenda Bauru. Extremamente simpática, sorridente, alegre, agradável, carismática e gentil. Queria saber o nome dela rssss",
+    "postado": "1"
+  },
+  {
+    "banido": "1",
+    "data/hora": "18/10/2024 13:05:23",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "fiquei sabendo que tem alguma menina da elétrica grávida 👀",
+    "postado": null
+  },
+  {
+    "banido": null,
+    "data/hora": "18/10/2024 13:55:52",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "cada vez mais difícil arrumar alguém pra fazer amor intenso nessa faculdade",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "18/10/2024 18:46:11",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "solta o like aqui quem vai na @computaria só para testar uma coisa",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "18/10/2024 22:20:20",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Queria saber quem é a menina que eu vi perto dos labs da bio nessa quarta feira. Cabelo castanho/ruivo na altura dos ombros, mochila amarela, blusa branca, tênis branco e tatuagem de coração e flores na coxa. Te achei maravilhosa.",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "19/10/2024 20:18:30",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Cadê os loirinhos altos dessa faculdade??? 😔",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "20/10/2024 07:15:52",
+    "identificacao": "L.",
+    "link": "",
+    "mensagem": "@juliaaa.sf oq preciso pra te conquistar? pq eu iria adorar te ter so pra mim",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "20/10/2024 13:27:54",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Vou mandar mais um pra @sofi.azenha aqui pq eu não consigo parar de pensar nela, como que faz pra conquistar esse coração?",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "20/10/2024 16:33:52",
+    "identificacao": "Mensagem Anônima",
+    "link": "",
+    "mensagem": "Queria saber se a @venusvenefica fica com casal (HxM). Desde que a vi num rolê tô doidinha pra saber",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "20/10/2024 21:17:52",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "essa ingrid khiara é uma gatinha queria conhecer ela melhor",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "21/10/2024 04:24:03",
+    "identificacao": "Homem-aranha ksksksks",
+    "link": "",
+    "mensagem": "@mclara_bb vou deixar bem explicito q estou louco pra te beijar e não é de hoje",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "21/10/2024 14:19:10",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Se alguém tiver o contato do Luan de computação fala que eu só não cumprimentei ele hoje no RU (21/10) porque eu estava cansado e achava que ele não lembrava de mim. O vacilo é todo meu, peço perdão ",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "21/10/2024 18:07:40",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "Esse @lipe_hira aí da Mec é mó gostoso, ta solteiro rsrsrs?",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "21/10/2024 21:05:21",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "um gatinho de blusa verde escuro e calça preta me deu uma boa noite saindo do departamento de biologia umas 21:00, me apaixonei cadê vccc bb",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "21/10/2024 22:29:44",
+    "identificacao": "",
+    "link": "",
+    "mensagem": "oie dudu monteiro deixa eu ser a metade da sua laranja",
+    "postado": "1"
+  },
+  {
+    "banido": null,
+    "data/hora": "22/10/2024 10:32:14",
+    "identificacao": null,
+    "link": null,
+    "mensagem": "Como saber se sou uma pessoa atraente?",
+    "postado": null
+  },
+  {
+    "banido": null,
+    "data/hora": "22/10/2024 11:21:45",
+    "identificacao": null,
+    "link": null,
+    "mensagem": "É Vitor Poliezi, se faz de santo mas a gente sabe oq você faz no off",
+    "postado": null
+  },
+  {
+    "banido": null,
+    "data/hora": "22/10/2024 17:27:58",
+    "identificacao": null,
+    "link": null,
+    "mensagem": "Vi uma moça de óculos, camisa amarela e calça jeans passando na frente da biblioteca. Ela tinha uma fitinha rosa na mochila. Queria saber quem é, muito linda rsrsrs.",
+    "postado": null
+  },
+  {
+    "banido": null,
+    "data/hora": "22/10/2024 17:46:28",
+    "identificacao": null,
+    "link": null,
+    "mensagem": "Tinha uma menina de oculos com uma camisa de Star Wars, mochila vermelha e calça jeans. Quem é? Slk mó gata.",
+    "postado": null
+  },
+  {
+    "banido": null,
+    "data/hora": "22/10/2024 19:39:28",
+    "identificacao": null,
+    "link": null,
+    "mensagem": "A menina que tava essa terça de vermelho vendendo adesivos nas 50s é uma tchutchuquinha ❤❤",
+    "postado": null
+  },
+  {
+    "banido": null,
+    "data/hora": "22/10/2024 21:06:17",
+    "identificacao": null,
+    "link": null,
+    "mensagem": "Um menino de jornal 024 que foi expulso de uma rep por assédio, namora há 3 anos e trai a namorada de educa 024 com outra menina da sala dele, todo mundo sabe menos a namorada",
+    "postado": null
+  },
+  {
+    "banido": null,
+    "data/hora": "22/10/2024 21:06:51",
+    "identificacao": "quero ser anonimo",
+    "link": null,
+    "mensagem": "tem uma menina de edu que namora ha 3 anos com um mlk de jornal 024 que trai ela horrores com uma menina do 024 tbm",
+    "postado": null
+  },
+  {
+    "banido": null,
+    "data/hora": "22/10/2024 23:30:52",
+    "identificacao": null,
+    "link": null,
+    "mensagem": "Queria o nome do menino de cabelo cacheado e camisa vermelha que estava lendo na biblioteca na terça (22) à noite? ",
+    "postado": null
+  }
+]
+A conexao com o google sheets foi bem sucedida

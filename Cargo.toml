@@ -1,0 +1,15 @@
+[package]
+name = "spotted"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+qrcodegen = "^1.6.0"
+fltk = "^1.4"
+image = "0.24"
+rusttype = "0.9"
+imageproc = "^0.23"
+google-sheets4 = "6.0.0+20240621"
+serde = "1"
+serde_json = "1"
+tokio = { version = "1", features = ["full"] }
